@@ -10,23 +10,44 @@ I specialize in building secure Django applications, exposing cyber threats, and
 ---
 
 ### 💼 What I Do:
-- 🔐 Penetration Testing (Wi-Fi, Web Apps, Phishing Simulation)
-- ⚙️ Django Web Development (Secure Login, E-commerce, APIs)
-- 📹 Video Education (Cybersecurity + Tech Awareness)
+- 🔐 Ethical Hacking / Penetration Testing (Wi-Fi, Web Apps, Phishing Simulation)
+- ⚙️ Building Secure Django Web Applications (Secure Login, E-commerce, APIs)
+- 🕸️ Web Security Audits
+- 🌐 Real Estate Portals, LMS, Booking Systems & More
 - 📊 Cybercrime Prevention Training (for businesses & schools)
 
 ---
+## 🧠 My Skills
 
-### 💡 Projects
-- [Secure Real Estate Portal](https://github.com/eccentricboy/real-estate-secure)
-- [Scam Detector Web App](https://github.com/eccentricboy/scam-detector)
-- [Django LMS with Real-Time Chat](https://github.com/eccentricboy/django-lms)
+| Cybersecurity  | Django Web Dev     | Tools & Frameworks      |
+|----------------|--------------------|--------------------------|
+| ✅ Social Engineering | ✅ Django REST Framework | 🐍 Python, Postgres |
+| ✅ Network Scanning   | ✅ HTMX, TailwindCSS       | 🔐 OWASP Top 10    |
+| ✅ Phishing Simulation | ✅ Stripe/Paystack Integration | 🐧 Linux, Burp Suite |
+
+---
+## 🔍 Recent Projects
+
+### 🏠 Secure Real Estate Portal  
+`Built with Django, Paystack, Admin Panel, Login Protection, Agent Panel`
+
+### 📚 Learning Management System (LMS)  
+`Secure video course platform with student & instructor roles`
+
+### 🔒 Lodge Booking System  
+`Real-time chat, review/rating, fraud protection — Django + Channels`
+
+See more 👉 [Repositories](https://github.com/Charliee142?tab=repositories)
 
 ---
 
-### 🛠️ Tech Stack
-`Python` | `Django` | `HTML` | `Bootstrap` | `JavaScript` | `Channels` | `PostgreSQL`
+## 📈 What I'm Looking For
 
+- ✅ Remote job opportunities in Cybersecurity & Web Dev
+- 🤝 Collaborations on security-first Django projects
+- 📢 Speaking invites or interviews on ethical hacking for Africa
+
+---
 ---
 
 ### 📲 Connect With Me  
@@ -37,5 +58,7 @@ I specialize in building secure Django applications, exposing cyber threats, and
 
 ---
 
-> 🧠 “The internet isn’t safe by default — it must be protected by design.”  
+> 🧠 “The internet isn’t safe by default — it must be protected by design.”
+> > **“I’m not just building apps. I’m protecting futures.”**
 > — *Eccentric Boy*
+
